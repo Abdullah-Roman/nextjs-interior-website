@@ -1,7 +1,7 @@
 
 
 ## Live Link
-https://nextjs-interior-website-rosy.vercel.app/contact
+https://nextjs-interior-website-rosy.vercel.app
 
 ```
 
